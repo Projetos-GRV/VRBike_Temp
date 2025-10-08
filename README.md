@@ -16,11 +16,10 @@ Both steering and speed data are collected by a server, formatted, and transmitt
 - Virtual Simulation:
 Inside the VR headset, a Unity application simulates the 3D bicycle, updating its rotation and movement based on real sensor inputs.
 
-![alt text](https://github.com/Projetos-GRV/VRBike_Temp/blob/Dev-Vinicius/imgs/bike_1.jpg)
-![alt text](https://github.com/Projetos-GRV/VRBike_Temp/blob/Dev-Vinicius/imgs/bike_2.jpg)
-![alt text](https://github.com/Projetos-GRV/VRBike_Temp/blob/Dev-Vinicius/imgs/bike_3.jpg)
-![alt text](https://github.com/Projetos-GRV/VRBike_Temp/blob/Dev-Vinicius/imgs/app_1.png)
-![alt text](https://github.com/Projetos-GRV/VRBike_Temp/blob/Dev-Vinicius/imgs/app_2.png)
+<p align="center">
+  <img src="https://github.com/Projetos-GRV/VRBike/blob/main/imgs/bike_demo.png" width="1080" />
+</p>
+
 ## Features
 
 ### Procedural City Generation: 
